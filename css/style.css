@@ -10,6 +10,9 @@
 html{
     scroll-behavior: smooth;
 }
+body{
+    background-color: whitesmoke;
+}
 
 /* custom scroll bar */
 ::-webkit-scrollbar {
@@ -88,7 +91,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: crimson;
+    background: black;
 }
 .navbar .max-width{
     display: flex;
@@ -105,7 +108,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
-    color: #fff;
+    color: lawngreen;
 }
 .navbar .menu li{
     list-style: none;
@@ -165,7 +168,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("/images/banner.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -306,7 +309,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "what i know";
+    content: "Experiments";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -363,16 +366,16 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 70%;
 }
 .skills-content .right .css::before{
     width: 60%;
 }
 .skills-content .right .js::before{
-    width: 80%;
-}
-.skills-content .right .php::before{
     width: 50%;
+}
+.skills-content .right .java::before{
+    width: 90%;
 }
 .skills-content .right .mysql::before{
     width: 70%;
@@ -380,7 +383,7 @@ section .title::after{
 
 /* projects section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "My Creations";
 }
 .teams .carousel .card{
     background: #222;
