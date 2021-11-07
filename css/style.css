@@ -175,15 +175,7 @@ section .title::after{
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
-}.image{
-    display: flex;
-    background: url("/images/banner.jpg") no-repeat center;
-    height: 100vh;
-    color: rgb(0, 225, 255);
-    min-height: 500px;
-    background-size: cover;
-    background-attachment: fixed;
-    font-family: 'Ubuntu', sans-serif;
+   font-family: 'Ubuntu', sans-serif;
 }
 .home .max-width{
   width: 100%;

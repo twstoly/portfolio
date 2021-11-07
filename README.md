@@ -4,7 +4,6 @@
 ![Alt text](/relative/path/to/images/landingpage.png?raw=true "Optional Title")
 ![Alt text](/relative/path/to/images/background.png?raw=true "Optional Title")
 ![Alt text](/relative/path/to/images/skills.png?raw=true "Optional Title")
-images/background.png
 #### By ** Mwangale Oliver **
 ## Description
 The portfolio website is all about my background in software development, my Education, my learned skills, Job Experience and the reason as to why am intrested in learning programming.
