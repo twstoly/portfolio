@@ -14,6 +14,6 @@ The Languages used in the application are HTML, CSS and JavaScript
 ## Support and contact details
 Dont hesitate to Contact me if you want to make any contributions in my portfolio.
 ### License
-License under the [MIT License] (LICENSE).
+License under the [MIT License](LICENSE).
 
-Copyright (c) {Future} **{List of contributors or company name}**
+Copyright (c) {Future} **twstCompany**
