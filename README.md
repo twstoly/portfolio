@@ -1,12 +1,6 @@
 # Portfolio Website
 #### Portfolio Website, version 2.0
-<<<<<<< HEAD
 
-![Alt text](/relative/path/to/images/landingpage.png?raw=true "Optional Title")
-![Alt text](/relative/path/to/images/background.png?raw=true "Optional Title")
-![Alt text](/relative/path/to/images/skills.png?raw=true "Optional Title")
-#### By ** Mwangale Oliver **
-=======
 #### By ** Mwangale Oliver **
 
 ![Alt text](/images/landingpage.png?raw=true "Optional Title")
